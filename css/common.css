@@ -11,7 +11,12 @@
 a{text-decoration: none;}
 ul,ol{list-style: none;}
 html{font-size: 10px;}
-body{font-size: 1.6rem; color: #222; font-family: 'SCoreDream'; font-weight: 400;}
+body{
+    font-size: 1.6rem; 
+    color: #222; 
+    font-family: 'SCoreDream'; 
+    font-weight: 400;
+    overflow-x: hidden;}
 /* custom  */
 .inner{
     margin: 0 auto;
